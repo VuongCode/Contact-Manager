@@ -355,3 +355,5 @@ All the tests should now be back to passing!
 **Hint: You will want to run this rake task after every time that you run `rake
 db:migrate`.**
 # Contact-Manager
+
+![Build Status](https://codeship.com/projects/<YOUR_PROJECT_UUID>/status?branch=master)
